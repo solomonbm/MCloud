@@ -1,4 +1,4 @@
-Header img
+![mcloud header](https://cloud.githubusercontent.com/assets/21333475/20050338/6e09b54c-a4d1-11e6-954c-23d740d93be6.jpg)
 
 # What is MCloud?
 
