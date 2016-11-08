@@ -10,7 +10,7 @@ MCloud is an application that let's you upload, store, and play all of your musi
 
 To get started, first create a new album. When adding an album cover logo, it's best to have a resolution of at least 512x512 and to use common image formats such as JPG, JPEG, or PNG.
 
-![img_2](https://cloud.githubusercontent.com/assets/21333475/20088915/15b7fffa-a58c-11e6-9307-64ccd7365707.png)
+![img_2](https://cloud.githubusercontent.com/assets/21333475/20089037/d45e2b6e-a58c-11e6-83e3-64307d105dd6.png)
 
 ## Adding Songs
 
