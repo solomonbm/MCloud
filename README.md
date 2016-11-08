@@ -28,4 +28,4 @@ Once songs are added to an album you are then able to play, favorite, and delete
 
 You can also search for music using the search feature at the top of every page. Any relevant albums will appear at the top of the results page, and the results for individual songs will appear below. 
 
-img5
+![img_5](https://cloud.githubusercontent.com/assets/21333475/20090850/4b907cb8-a598-11e6-89e1-bf630428f789.png)
