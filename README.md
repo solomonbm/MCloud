@@ -16,7 +16,7 @@ To get started, first create a new album. When adding an album cover logo, it's 
 
 After an album is created you will then be able to add/upload songs. Currently supported file types are WAV, MP3, and OGG.
 
-img 3
+![img_3](https://cloud.githubusercontent.com/assets/21333475/20089106/47728f78-a58d-11e6-8012-de9a1c8c9419.png)
 
 ## My Songs
 
