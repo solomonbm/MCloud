@@ -2,7 +2,7 @@
 
 # What is MCloud?
 
-MCloud is an application that let's you upload, store, and play all of your music from the cloud. You can now manage and listen to your music from any device, anywhere in the world. 
+MCloud is an application that lets you upload, store, and play all of your music from the web. You can now manage and listen to your music from any device, anywhere in the world. 
 
 ![img_1](https://cloud.githubusercontent.com/assets/21333475/20050833/38050142-a4d4-11e6-8e95-97d76bee745e.png)
 
